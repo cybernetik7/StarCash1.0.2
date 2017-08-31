@@ -1,6 +1,6 @@
-StarCash 
+StarCash - Global Digital Currency
 
-Global Digital Currency
+NOTE: The software version number incorrectly says 1.0.0. in the wallets and server. 
 
 Symbol: STAR  (changed from STC)
 
